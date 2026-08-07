@@ -76,16 +76,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
----
----
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=<rosannelysandra>&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
