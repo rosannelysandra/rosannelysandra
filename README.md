@@ -17,8 +17,6 @@
 
 🎓 Final-Year Computer Engineering student pursuing **AI & ML Honours**
 
-💼 **Software Engineering Intern at Bodhami**
-
 💡 Passionate about building scalable software solutions and solving real-world problems.
 
 🌱 Currently learning
